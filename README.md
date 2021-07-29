@@ -1,0 +1,2 @@
+# NuxtIntro
+Nuxt fundamentals
